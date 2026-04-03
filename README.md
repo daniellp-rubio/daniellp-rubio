@@ -1,12 +1,8 @@
 
 <section id="statistics">
-  <h1>📈| My statistics</h1>
+  <h1>😉| How nice to have you here!</h1>
   <img src="https://streak-stats.demolab.com?user=daniellp-rubio&theme=tokyonight&hide_border=true" />
 </section>
-
-<header/>
-  <h1>😉| How nice to have you here!</h1>
-</header>
 
 <section id="projects">
   <h1>🚀| My projects</h1>
