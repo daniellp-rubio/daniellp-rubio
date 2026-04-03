@@ -1,7 +1,6 @@
 
 <section id="statistics">
   <h1>📈| My statistics</h1>
-  <p>I am an advocate of continuous learning and always looking to expand my knowledge in new technoloegis and development approaches.</p>
   <img src="https://streak-stats.demolab.com?user=daniellp-rubio&theme=tokyonight&hide_border=true" />
 </section>
 
@@ -78,5 +77,6 @@
 </section>
 
 <footer>
+  <p>I am an advocate of continuous learning and always looking to expand my knowledge in new technoloegis and development approaches.</p>
   <p>I am a passionate web developer with experience creating attractive and functional interfaces. My focus is technological innovation, and I am always up to date with the latest trends. I work collaboratively with design and development teams to create websites and applications that combine visual beauty with efficient functionality. Additionally, I value effective communication and collaboration in multicultural environments.</b></p>
 </footer>
