@@ -74,6 +74,7 @@
 <section id="statistics">
   <h1>📈| My statistics</h1>
   <p>I am an advocate of continuous learning and always looking to expand my knowledge in new technologies and development approaches.</p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daintz&theme=dark"></img>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Daintz&theme=dark"></img>
+  <img src="https://github-readme-stats.vercel.app/api?username=Daintz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daintz&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Daintz&theme=tokyonight&hide_border=true" />
 </section>
