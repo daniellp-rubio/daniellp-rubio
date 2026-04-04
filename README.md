@@ -1,11 +1,9 @@
 
 <section id="statistics">
-  <h1>😉| How nice to have you here!</h1>
   <img src="https://streak-stats.demolab.com?user=daniellp-rubio&theme=tokyonight&hide_border=true" />
 </section>
 
 <section id="projects">
-  <h1>🚀| My projects</h1>
   <p>I enjoy the opportunity to apply my knowledge and experience in developing effective solutions to help others with their projects. My collaborative approach, problem-solving mindset, and commitment to continuous learning allow me to create high-quality, custom solutions that meet the needs of each project.</p>
 </section>
 
