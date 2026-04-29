@@ -54,5 +54,5 @@ Currently at **Carryt** — optimizing payment modules (+20% speed, zero errors 
 
 ### 🔗 Links
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-daniellopez.dev-blue?style=for-the-badge)](https://my-portfolio-daniellp-rubio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-daniellopez.dev-blue?style=for-the-badge)]([https://my-portfolio-daniellp-rubio.vercel.app/](https://www.daniellopez.dev/))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel_Lopez-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/daniel-lopez-rubio)
